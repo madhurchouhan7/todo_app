@@ -11,6 +11,8 @@ class TodoApp extends StatelessWidget {
   Widget build(BuildContext context) {
     final todoProvider = Provider.of<TodoProvider>(context);
 
+
+    //TODO: Add couple of screenshots of App in Readme.md
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
