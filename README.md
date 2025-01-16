@@ -9,6 +9,10 @@ This is a simple Todo application built using **Flutter**, utilizing **Hive** fo
 - Persistent storage using Hive database.
 
 ## Screenshots
+![Screenshot 2025-01-16 191828](https://github.com/user-attachments/assets/4c3147cb-edf3-4b47-afab-a919a51dabd7)
+
+### Screen Recording 
+https://github.com/user-attachments/assets/e00f9f7d-d3f2-4b09-9790-992468f43969
 
 
 ## Prerequisites
